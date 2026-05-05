@@ -23,8 +23,8 @@ PRODUCT_MODEL := RMX3852
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi-user 16 BP2A.250605.015 1773912590646 release-keys" \
-    BuildFingerprint=realme/RMX3852/RE5C46L1:16/UKQ1.231108.001/U.519f052-2e9541e-2eb6a1d:user/release-keys \
+    BuildDesc="qssi-user 16 BP2A.250605.015 1776160539107 release-keys" \
+    BuildFingerprint=realme/RMX3852/RE5C46L1:16/UKQ1.231108.001/U.418e918-1e34c19-1e25ede:user/release-keys \
     DeviceName=RE5C46L1 \
     DeviceProduct=RMX3852 \
     SystemDevice=RE5C46L1 \

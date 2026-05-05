@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from realme GT Neo6 (RMX3852_16.0.5.701(CN01)).
+## are from realme GT Neo6 (RMX3852_16.0.5.702(CN01)).
 
 # Current blobs with deps disabled:
 # com.oplus.node.mvgsat, com.oplus.node.sstabphoto, com.qti.node.dewarp, com.qti.chi.override, libcamximageformatutils, libchifeature2 depends on multiple versions of the same aidl_interface: android.hardware.graphics.allocator-V1-ndk, android.hardware.graphics.allocator-V2-ndk-source
@@ -1826,6 +1826,7 @@ odm/etc/sensor/config/json_list
 odm/etc/sensor/config/lux_aod.json
 odm/etc/sensor/config/oplus_back_tap.json
 odm/etc/sensor/config/oplus_backclip_detect.json
+odm/etc/sensor/config/oplus_car_motion.json
 odm/etc/sensor/config/oplus_lay.json
 odm/etc/sensor/config/oplus_rotation_detect.json
 odm/etc/sensor/config/palawan_mtp_ak09918_cover.json
