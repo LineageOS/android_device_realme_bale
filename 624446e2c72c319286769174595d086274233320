@@ -16,6 +16,24 @@
       "message": "this not needed for ur device?",
       "revId": "624446e2c72c319286769174595d086274233320",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b51654a_d516fa6f",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1903,
+      "author": {
+        "id": 36633
+      },
+      "writtenOn": "2026-11-08T08:33:09Z",
+      "side": 0,
+      "message": "I haven\u0027t noticed any regression in the vibration function on this device",
+      "parentUuid": "fa25e58a_b531e847",
+      "revId": "624446e2c72c319286769174595d086274233320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
