@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fa25e58a_b531e847",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1903,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-11-08T08:27:48Z",
+      "side": 0,
+      "message": "this not needed for ur device?",
+      "revId": "624446e2c72c319286769174595d086274233320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
