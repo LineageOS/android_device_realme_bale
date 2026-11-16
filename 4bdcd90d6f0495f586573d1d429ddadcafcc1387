@@ -16,6 +16,24 @@
       "message": "Is it working properly? Do you see any lag when HDR gets activated?",
       "revId": "4bdcd90d6f0495f586573d1d429ddadcafcc1387",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10b5a369_7c8cb250",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36633
+      },
+      "writtenOn": "2026-11-16T20:18:23Z",
+      "side": 1,
+      "message": "Extended HDR brightness is explicitly applied to supported content without any noticeable lag",
+      "parentUuid": "6c84e3d6_cc692faa",
+      "revId": "4bdcd90d6f0495f586573d1d429ddadcafcc1387",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
