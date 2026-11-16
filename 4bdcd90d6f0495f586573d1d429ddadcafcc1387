@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6c84e3d6_cc692faa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-11-16T19:55:50Z",
+      "side": 1,
+      "message": "Is it working properly? Do you see any lag when HDR gets activated?",
+      "revId": "4bdcd90d6f0495f586573d1d429ddadcafcc1387",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
