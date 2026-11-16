@@ -34,6 +34,24 @@
       "parentUuid": "fa25e58a_b531e847",
       "revId": "624446e2c72c319286769174595d086274233320",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1eb179f4_ecf35885",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1903,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-11-16T19:42:03Z",
+      "side": 0,
+      "message": "Ah, seems it used for stock richtap/livetap vibrator hal",
+      "parentUuid": "8b51654a_d516fa6f",
+      "revId": "624446e2c72c319286769174595d086274233320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
